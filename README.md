@@ -10,6 +10,6 @@ yarn dev
 pnpm dev
 ```
 
-Then, open [http://lvh.me:3000](http://lvh.me:3000) instead of localhost:3000 for Authentication to work properly. 
+Then, open [http://lvh.me:3000s](http://lvh.me:3000) instead of localhost:3000 for Authentication to work properly. 
 
 
